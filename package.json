@@ -19,6 +19,7 @@
   "homepage": "https://github.com/DataHiveDJW/datahive#readme",
   "dependencies": {
     "express": "^4.15.2",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.11.0",
+    "ws": "^2.2.3"
   }
 }
